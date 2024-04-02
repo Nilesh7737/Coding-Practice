@@ -1,0 +1,13 @@
+git clone https://github.com/Nilesh7737/Coding-Practice.git
+
+
+git add .
+
+
+git commit -m "folder name"
+
+
+git push 
+
+
+.
